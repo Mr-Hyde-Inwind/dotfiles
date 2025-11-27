@@ -1,0 +1,10 @@
+/*
+
+!.gitignore
+
+!/.zimrc
+!/.zshrc
+
+!/custom/
+!/custom/**
+
