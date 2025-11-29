@@ -5,6 +5,6 @@
 !/.zimrc
 !/.zshrc
 
-!/custom/
-!/custom/**
+!/.zim_custom/
+!/.zim_custom/**
 

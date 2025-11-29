@@ -151,6 +151,8 @@ KEYTIMEOUT=1
 
 
 # Custom
-source $ZDOTDIR/custom/fzf.zsh
-source $ZDOTDIR/custom/keybinding.zsh
+prefix=${ZDOTDIR:-$HOME}
+
+source "$prefix/.zim_custom/fzf.zsh"
+source "$prefix/.zim_custom/keybinding.zsh"
 
