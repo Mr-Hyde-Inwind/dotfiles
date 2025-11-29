@@ -156,3 +156,7 @@ prefix=${ZDOTDIR:-$HOME}
 source "$prefix/.zim_custom/fzf.zsh"
 source "$prefix/.zim_custom/keybinding.zsh"
 
+# zxoide
+eval "$(zoxide init zsh)"
+alias cd="z"
+
